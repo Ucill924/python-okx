@@ -36,7 +36,7 @@ Make sure you update often and check the [Changelog](https://www.okx.com/docs-v5
 pip install python-okx
 ```
 
-#### Step 3: Run examples
+#### Step 3: Run 
 
 - Fill in API credentials in the corresponding examples
 ```python 
