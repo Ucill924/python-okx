@@ -16,7 +16,7 @@ python_okx.egg-info/
 
 ### IntelliJ IDEA ###
 .idea
-*.iws
+*.iwsd
 *.iml
 *.ipr
 
